@@ -16,7 +16,7 @@ authors:
 # - 'Equal contribution'
 
 date: '2023-02-01T00:00:00Z'
-# doi: '10.1177/00104140221139386'
+ doi: '10.1177/2053168023115561'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2023-01-01T00:00:00Z'
@@ -28,7 +28,7 @@ publishDate: '2023-01-01T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Research and Politics*, forthcoming
+publication: In *Research and Politics*, 10(1)
 # publication_short: In *ICW*
 
 abstract: How do post-conflict societies contain large-scale criminal violence when state security forces that committed atrocities during a civil war remain unpunished and become key players in the criminal underworld? This article explores the impact on violence reduction of internationalized prosecution (IP)*:* cooperation agreements between an international organization and a country’s public prosecutors to dismantle state-criminal networks through judicial action. We assess the IP process by which the United Nations–sponsored International Commission Against Impunity in Guatemala (CICIG) and Guatemala’s law enforcement dismantled over 70 criminal structures led by death squads and the civil war military establishment. Using synthetic control models, we estimate that Guatemala’s IP process plausibly prevented the occurrence of between 20,000 and 30,000 homicides, from 2008 until 2019. Case studies show how IP contributed to violence reduction by removing criminal structures and deterring both state-criminal collusion and the state’s use of iron-fist militarized policies against crime.
