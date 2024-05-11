@@ -44,11 +44,6 @@ design:
 ### UTSA
 
 - The Politics of Civil Wars (G)
-links: 
-  - name: Article
-    url:  'https://www.tandfonline.com/doi/full/10.1080/17419166.2018.1555691'
-  - name: Replication Material
-    url:  'publication/demsec20/demsec20_code.zip'
 - Human Rights and Global Development (G)
 
 ### Tulane
