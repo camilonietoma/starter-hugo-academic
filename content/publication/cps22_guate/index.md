@@ -15,11 +15,11 @@ authors:
 #  - 'Equal contribution'
 # - 'Equal contribution'
 
-date: '2022-01-01T00:00:00Z'
+date: '2023-01-01T00:00:00Z'
 # doi: '10.1177/00104140221139386'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2020-01-01T00:00:00Z'
+publishDate: '2023-01-01T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -28,7 +28,7 @@ publishDate: '2020-01-01T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Comparative Political Studies*, forthcoming
+publication: In *Comparative Political Studies*, 56(9)*:* 1328-1364
 # publication_short: In *ICW*
 
 abstract: Extensive research suggests that electoral competition and power alternations increase violence in weakly institutionalized democracies. Yet, little is known about how political parties affect violence and security. We theorize that the type of party strengthened in elections shapes security outcomes and argue that the rise of programmatic parties, at the expense of clientelistic parties, can significantly reduce violence. In contexts of large-scale criminal violence, programmatic parties are less likely to establish alliances with coercive actors because they possess fewer incentives and greater coordination capacity. Focusing on Brazil, we use a regression discontinuity design that leverages the as-if random assignment of election winners across three rounds of mayoral races. We find that violent crime decreased in municipalities where programmatic parties won coin-flip elections, while it increased in those where clientelistic parties triumphed. Our findings suggest that whether electoral competition increases violence depends on the type of party that wins elections.
