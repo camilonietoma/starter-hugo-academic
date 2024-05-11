@@ -45,7 +45,7 @@ links:
   - name: Article
     url: 'https://www.sciencedirect.com/science/article/abs/pii/S0305750X2300222X'
   - name: Replication Material
-    url:  'publication/wd24_min/wd24_min.zip'
+    url:  'publication/wd24_min/wd24_mining_repdata.zip'
 
 # url_pdf: "publication/wd24_min/wd24_mining_and_violence.pdf"
 url_code: ''
