@@ -42,16 +42,18 @@ design:
 ---
 
 ### UTSA
-
-#### S
+#### Graduate courses
 - Research Methods
 - Democracy and Democratic Erosion
+- The Politics of Civil Wars  
+- Human Rights and Global Development  
+
+#### Undergraduate courses
 - Latin America in the World
-- The Politics of Civil Wars (G)
-- Human Rights and Global Development (G)
+
 
 ### Tulane
-
+#### Undergraduate courses
 - Scope and Methods for Political Science (UG)
 - Comparative Politics (UG)
 
