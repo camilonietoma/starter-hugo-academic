@@ -1,5 +1,5 @@
 ---
-title: 'Property rights and political behavior'
+title: 'Rights and Violence in Colombia: How Property Rights over Land Shape Political Preferences during Conflict'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -30,7 +30,7 @@ publication_types: ['3']
 # publication: In *Comparative Political Studies*, forthcoming
 # publication_short: In *ICW*
 
-# abstract: 
+abstract: What are the consequence of property rights extension for political preferences in contexts of violence? This paper investigates how the granting of property rights shapes political preferences with a focus on Colombia's 2022 Presidential elections. I argue that granting property rights can gradually weaken political support for the incumbent by eroding political dependence and creating incentives for electoral retribution. Since they improve access to public goods and better income, property rights may disrupt patron-client relations, allowing citizens to vote based on their true political preferences. Moreover, exposure to state-perpetrated violence can induce citizens to withdraw support from political projects or candidates associated with the perpetrator. I examine the argument through two empirical strategies*:* municipal-level variation in land titling complemented by territorial discontinuities in the land restitution program rolled out in 2011. I find that the granting of property rights harmed the incumbent-associated candidate and induced a shift towards Gustavo Petro’s opposition and redistributive agenda. The electoral disadvantage suffered by the establishment candidate was more acute in impoverished areas with a history of state-perpetrated extrajudicial violence. This effect, I find, is driven by violence committed by the state and not by overall levels of violence caused by non-state actors.
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
