@@ -43,6 +43,10 @@ design:
 
 ### UTSA
 
+#### S
+- Research Methods
+- Democracy and Democratic Erosion
+- Latin America in the World
 - The Politics of Civil Wars (G)
 - Human Rights and Global Development (G)
 
