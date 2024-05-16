@@ -4,8 +4,7 @@ title: 'When the State Becomes Complicit: Mayors, Criminal Actors, and the Delib
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
-authors:
-  - admin
+
  
 
 
@@ -13,21 +12,16 @@ authors:
 # author_notes:
 #  - 'Equal contribution'
 # - 'Equal contribution'
-
-date: '2023-01-01T00:00:00Z'
-# doi: ''
-
-# Schedule page publish date (NOT publication's date).
-publishDate: '2023-01-01T00:00:00Z'
+ 
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['2']
+publication_types: ['0']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Comparative Political Studies*, 66(9)*:* 1295-1327
+#publication: In *Comparative Political Studies*, 66(9)*:* 1295-1327
 # publication_short: In *ICW*
 
 abstract: Some politicians engage in relationships with criminal actors in pursuit of mutual interests. How does their rise to power affect state capacity? I focus on one of Colombia’s worst episodes of criminal politics to understand how the victory of paramilitary-friendly mayors impacted subnational taxation. Focusing on close races, I find that the victory of a paramilitary-friendly mayor in 2007 led to a substantive drop in property taxation in subsequent years. I argue that criminal collusion allows politicians and criminals to accumulate wealth and political power, but doing so requires them to deliberately undermine local state institutions. Indeed, the evidence suggests that municipalities governed by paramilitary-friendly politicians experienced a weakening of property rights, the worsening of local judicial institutions, and an alteration of the electoral playing field. Rather than a mere consequence of criminal collusion, state weakening is a politically strategic decision that serves the interests of both criminals and politicians.
