@@ -1,4 +1,5 @@
 ---
+show_date: false
 # date: "2024-08-01"
 # external_link: ""
 image:
