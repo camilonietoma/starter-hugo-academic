@@ -4,7 +4,7 @@ name = "nord" # Based on https://www.nordtheme.com/
 [light]
   # Primary
   primary = "#3f51b5"
-  background = "#F3F6F4"
+  background = "#fafcfc"
 
   link = "#A23E02"
   link_hover = "#A23E02"
