@@ -1,5 +1,5 @@
 ---
-date: "2022-06-01"
+# date: "2022-06-01"
 # external_link: ""
 image:
   # caption: Photo by rawpixel on Unsplash
