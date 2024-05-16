@@ -11,7 +11,7 @@ links:
   name: Syllabus
   url: 'teaching/methods/methods-syllabus.pdf'
 # slides: example
-summary: Taught*:* Spring 2024
+summary: Spring 2024
 # tags:
 # - Deep Learning
 title: Research methods
