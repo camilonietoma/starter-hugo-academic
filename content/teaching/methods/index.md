@@ -1,12 +1,12 @@
 ---
-# date: "2020-10-15"
+date: ""
 # external_link: ""
 image:
   # caption: Photo by rawpixel on Unsplash
   focal_point: Smart
 links:
 - icon: file-pdf
-  icon_pack: fab
+  icon_pack: far
   name: Syllabus
   url_pdf: 'methods/methods-syllabus.pdf'
 # slides: example
