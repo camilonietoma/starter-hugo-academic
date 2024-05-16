@@ -11,7 +11,7 @@ links:
 show_date: false
 date: "2024-05-01"
 # slides: example
-summary: Taught: Fall 2024, Fall 2022
+summary: Taught*:* Fall 2024, Fall 2022
 # tags:
 # - Deep Learning
 title: Human Rights and Global Development
