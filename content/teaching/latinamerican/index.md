@@ -11,7 +11,7 @@ links:
   name: Syllabus
   url: 'teaching/latinamerican/latam-syllabus.pdf'
 # slides: example
-summary: Taught*:* Spring 2023
+summary: Spring 2023
 # tags:
 # - Deep Learning
 title: Latin America in the World
