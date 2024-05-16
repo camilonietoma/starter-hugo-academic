@@ -7,10 +7,10 @@
 
 appearance:
   theme: nord
-  day_night: true
+  mode: light
   font: ''
   font_size: L
-  
+ 
 
 # SEO
 
