@@ -14,7 +14,7 @@ date: "2024-05-01"
 summary: Fall 2024, Spring 2023 
 # tags:
 # - Deep Learning
-title: Human Rights and Global Development
+title: Politics of Civil Wars
 url_code: ""
 url_pdf: ""
 url_slides: ""
