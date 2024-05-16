@@ -8,7 +8,7 @@ links:
 - icon: file-pdf
   icon_pack: far
   name: Syllabus
-  url_pdf: "methods/methods-syllabus.pdf"
+  url: 'methods/methods-syllabus.pdf'
 # slides: example
 summary: Introductory quantitative methods
 # tags:
