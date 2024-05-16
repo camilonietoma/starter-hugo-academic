@@ -1,6 +1,4 @@
 ---
-show_date: false
-date: "2024-05-01"
 # external_link: ""
 image:
   # caption: Photo by rawpixel on Unsplash
@@ -10,6 +8,8 @@ links:
   icon_pack: far
   name: Syllabus
   url: 'teaching/humanrightsdev/hrdev-syllabus.pdf'
+show_date: false
+date: "2024-05-01"
 # slides: example
 # summary: Introductory quantitative methods
 # tags:
