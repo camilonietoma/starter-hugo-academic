@@ -4,18 +4,18 @@ name = "nord" # Based on https://www.nordtheme.com/
 [light]
   # Primary
   primary = "#000000"
-  background = "#FFFBF2"
+  background = "#F3F6F4"
 
   link = "#A23E02"
   link_hover = "#A23E02"
 
   # Menu
-  menu_primary = "#FFFBF2"
+  menu_primary = "#F3F6F4"
   menu_text = "#A23E02"
   menu_text_active = "#C49373"
   menu_title = "#A23E02"
 
   # Home sections
-  home_section_odd = "#FFFBF2"
-  home_section_even = "#FFFBF2"
+  home_section_odd = "#F3F6F4"
+  home_section_even = "#F3F6F4"
 
