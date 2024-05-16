@@ -3,17 +3,17 @@ name = "nord" # Based on https://www.nordtheme.com/
 
 [light]
   # Primary
-  primary = "#000000"
+  primary = "#3f51b5"
   background = "#F3F6F4"
 
   link = "#A23E02"
   link_hover = "#A23E02"
 
   # Menu
-  menu_primary = "#F3F6F4"
-  menu_text = "#A23E02"
-  menu_text_active = "#C49373"
-  menu_title = "#A23E02"
+  menu_primary = "#3f51b5" # 500
+  menu_text = "#fff"
+  menu_text_active = "#8c9eff" # A100
+  menu_title = "#fff"
 
   # Home sections
   home_section_odd = "#F3F6F4"
