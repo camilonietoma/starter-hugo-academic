@@ -1,5 +1,5 @@
 ---
-date: ""
+date: "2022-06-01"
 # external_link: ""
 image:
   # caption: Photo by rawpixel on Unsplash
@@ -19,5 +19,3 @@ url_pdf: ""
 url_slides: ""
 url_video: ""
 ---
-
-Please visit http:/  for full materials and details.
