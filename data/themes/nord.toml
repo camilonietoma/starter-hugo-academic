@@ -4,14 +4,14 @@ name = "nord" # Based on https://www.nordtheme.com/
 [light]
   # Primary
   primary = "#3f51b5"
-  background = "#fafcfc"
+  background = "#ed112e"
 
   link = "#A23E02"
   link_hover = "#A23E02"
 
   # Menu
   menu_primary = "#3f51b5" # 500
-  menu_text = "#fff"
+  menu_text = "#ed112e"
   menu_text_active = "#8c9eff" # A100
   menu_title = "#fff"
 
