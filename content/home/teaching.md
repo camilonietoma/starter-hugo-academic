@@ -23,7 +23,7 @@ content:
   # Page type to display. E.g. post, event, publication...
   page_type: teaching
   # Choose how many pages you would like to display (0 = all pages)
-  count: 2
+  count: 4
   # Filter on criteria
   filters:
     author: ""
