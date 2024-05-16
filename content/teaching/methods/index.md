@@ -7,8 +7,8 @@ image:
 links:
 - icon: github
   icon_pack: fab
-  name: Github
-  # url: https://github.com/leg-ufpr/ce227
+  name: Syllabus
+  url_pdf: "methods-syllabus.pdf"
 # slides: example
 summary: Bayesian inference and methods
 # tags:
