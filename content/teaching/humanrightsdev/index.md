@@ -11,7 +11,7 @@ links:
 show_date: false
 date: "2024-05-01"
 # slides: example
-# summary: Introductory quantitative methods
+summary: Introductory quantitative methods
 # tags:
 # - Deep Learning
 title: Human Rights and Global Development
