@@ -1,6 +1,6 @@
 ---
 show_date: false
-# date: "2023-01-01"
+date: "2024-01-01"
 # external_link: ""
 image:
   # caption: Photo by rawpixel on Unsplash
