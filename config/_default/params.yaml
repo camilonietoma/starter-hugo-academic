@@ -6,10 +6,10 @@
 # Appearance
 
 appearance:
-  theme_day: nord
-  theme_night: nord
-  font: minimal
-  font_size: M
+  theme: ocean
+  day_night: true
+  font: ''
+  font_size: L
   
 
 # SEO
