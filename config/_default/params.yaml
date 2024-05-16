@@ -6,7 +6,7 @@
 # Appearance
 
 appearance:
-  theme: nord
+  theme: Ocean
   #day_night: true
   font: ''
   font_size: L
