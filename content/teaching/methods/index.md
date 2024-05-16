@@ -10,7 +10,7 @@ links:
   name: Syllabus
   url: 'teaching/methods/methods-syllabus.pdf'
 # slides: example
-summary: Introductory quantitative methods
+# summary: Introductory quantitative methods
 # tags:
 # - Deep Learning
 title: Research methods
