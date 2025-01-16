@@ -29,7 +29,7 @@ show_date: false
 
 
 - 📘 **POLI 300: Latin American Politics**  
-  <br>[Syllabus](#)  
+  <br>[Syllabus](teaching/latinamerican/latam-syllabus.pdf)  
 
 
 
