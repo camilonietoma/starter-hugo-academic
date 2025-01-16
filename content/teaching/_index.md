@@ -7,6 +7,7 @@ layout: single  # Change to a static page layout
 show_date: false
 ---
 
+# UTSA
 
 ## Graduate Courses
 - 🎓 **POLI 600: Global Development and Human Rights**  
@@ -29,6 +30,21 @@ show_date: false
 - 📘 **POLI 200: Introduction to Political Science**  
   # Exploring foundational concepts in political science.
   <br>[Syllabus](#) 
+
+
+- 📘 **POLI 300: Latin American Politics**  
+  # Understanding political systems and challenges in Latin America.
+  <br>[Syllabus](#)  
+
+
+
+# Tulane
+
+## Undergraduate Courses
+- 📘 **POLI 200: Introduction to Political Science**  
+  # Exploring foundational concepts in political science.
+  <br>[Syllabus](#) 
+
 
 - 📘 **POLI 300: Latin American Politics**  
   # Understanding political systems and challenges in Latin America.
