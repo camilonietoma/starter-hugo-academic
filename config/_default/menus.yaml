@@ -20,7 +20,7 @@ main:
     url: https://cvws.icloud-content.com/B/AZUUjsNA_Ce6LbGN-rjR3bsoPxOIAdzITVkgdJFQ9HpbW3feLb5Pfysm/nietomatiz+cv.pdf?o=Ah8qrmnUIIVgFtfI2YgX9HP44D8NgvL3fQKeop4xLt9y&v=1&x=3&a=CAogLzwSSPYLyhv_A0UK1Btn0W1N9E1lt2L52pcYWwkDwJMSbRCN4f-JxDIYjb7bi8QyIgEAUgQoPxOIWgRPfysmaiYFGO6hTnKmJTqh04lX-eklQ-3nr8L7Vj3yYrBdVAj57FwZ04wLBHImTksRx4xVXF5NagrC8FgpdxjbSWTQG1qJAyy0oRohfhIfi2LNqHk&e=1736265096&fl=&r=b7a48ef1-4e11-48df-b2cf-fd78808d37c2-1&k=B24tzuOHEaYJaXdSnWkpSw&ckc=com.apple.clouddocs&ckz=com.apple.CloudDocs&p=146&s=6ohaWHkK1Rx1RwDSQAFGKg7I89o&cd=i
     weight: 15
   - name: Publications
-    url: '#publications'
+    url: 'https://camilonietom.com/publication/'
     weight: 20
   - name: Working papers
     url: '#wpapers'
