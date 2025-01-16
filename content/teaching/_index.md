@@ -10,4 +10,4 @@ show_date: false
 
 ## Graduate Courses
 - 🎓 **POLI 600: Global Development and Human Rights**  
-  <br>[Syllabus](#)
+  <br>[Syllabus]('content/teaching/humanrightsdev/hrdev-syllabus.pdf')
