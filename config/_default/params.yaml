@@ -6,7 +6,7 @@
 # Appearance
 appearance:
   theme_day: minimal
-  font: minimal
+  font: custom
   font_size: S
  
 #######
