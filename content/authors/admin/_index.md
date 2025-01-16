@@ -81,4 +81,6 @@ My research explores political violence, state building, criminal governance, an
 I'm an Assistant Professor in the Department of Political Science at the [University of Texas at San Antonio](https://www.utsa.edu), where I also serve as Assistant Director for The UTSA [Center for Public Opinion Research](https://colfa.utsa.edu/political-opinion/). I am also a Research Affiliate at the [Violence and Transitional Justice Lab](https://kellogg.nd.edu/v-tj-lab-about) at Notre Dame's Kellogg Institute. Prior to coming to UTSA, I was a Postdoctoral Fellow at the [Center for Inter-American Policy and Research (CIPR)](https://cipr.tulane.edu) at Tulane University. 
 
 My CV can be downloaded [here](https://www.icloud.com/iclouddrive/02d1a68T-jZNdlDXi49D4eTlw#nietomatiz_cv).
+<br>
+<br>
 
