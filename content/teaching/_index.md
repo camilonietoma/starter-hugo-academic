@@ -2,10 +2,11 @@
 header:
   caption: ""
   image: ""
-title: "" 
-layout: single  # Change to a static page layout
+title: Teaching
+layout: single  # Static page layout
 show_date: false
 ---
+
 
 # UTSA
 
