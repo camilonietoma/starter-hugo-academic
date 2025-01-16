@@ -82,5 +82,4 @@ I'm an Assistant Professor in the Department of Political Science at the [Univer
 
 My CV can be downloaded [here](https://www.icloud.com/iclouddrive/02d1a68T-jZNdlDXi49D4eTlw#nietomatiz_cv).
 <br>
-<br>
 
