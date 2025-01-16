@@ -23,14 +23,14 @@ main:
     url: https://camilonietom.com/publication/
     weight: 20
   - name: Working papers
-    url: '#wpapers'
+    url: https://camilonietom.com/wpapers/
     weight: 30  
   - name: Teaching
-    url: '#teaching'
+    url: https://camilonietom.com/teaching/
     weight: 40  
-  - name: Contact
-    url: '#contact'
-    weight: 50
+  # - name: Contact
+  #  url: '#contact'
+  #  weight: 50
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
