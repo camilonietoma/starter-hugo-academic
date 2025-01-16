@@ -2,7 +2,7 @@
 header:
   caption: ""
   image: ""
-title: Teaching
+title: ""
 layout: single  # Static page layout
 show_date: false
 ---
