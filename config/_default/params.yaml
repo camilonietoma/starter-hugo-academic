@@ -10,7 +10,12 @@ appearance:
   theme_night: minimal
   font: minimal
   font_size: M
- 
+
+#######
+homepage:
+  type: page  # Switch to a single static page
+  sections: []  # Disable scrollable sections
+######
 
 # SEO
 
