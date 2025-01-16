@@ -36,3 +36,11 @@ details {
 .navbar .navbar-search {
   display: none !important;
 }
+
+.page-title {
+  margin-bottom: 2rem; /* Aumenta el espacio debajo del título */
+}
+
+.page-header {
+  margin-bottom: 2rem; /* Asegura que funcione con diferentes layouts */
+}
