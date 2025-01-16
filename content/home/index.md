@@ -1,16 +1,8 @@
----
+# ---
 # Homepage
-title: "Welcome"
-type: page
-layout: single
+# type: widget_page
 
-# Disable the widget-based system.
-headless: false
----
+# Homepage is headless, other widget pages are not.
+# headless: true
+# ---
 
-# Welcome to My Website
-This is my static homepage. Use the links below to navigate:
-
-- [About Me](about)
-- [Research](research)
-- [Publications](publications)
